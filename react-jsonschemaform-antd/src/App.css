@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.form{
+  background-color: #61dafb;
+  display:grid;
+}
+.content{
+ text-align: center;
+ padding: 13px 13px 13px 13px;
+  margin: 20px 200px 200px 316px;
+  top:auto;
+  width: 766px;
+}
+
+.App-header {
+  background-color:cornflowerblue;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.button{
+  margin-bottom: 15px;
+}
